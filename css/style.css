@@ -38,3 +38,9 @@ h3 {
   margin: 10px 0;
   width: 100%;
 }
+
+.element:nth-child(7),
+.element:nth-child(8),
+.element:nth-child(9) {
+  background-color: purple;
+}
